@@ -1,2 +1,2 @@
-# Django_app
+## Unfinished
 My first django project
