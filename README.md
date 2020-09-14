@@ -14,8 +14,5 @@ Simple blog app that allows multiple users to create text posts. It is my first 
 * Create, update and delete posts in user-friendly interface
 * Simple user profile
 
-## License :
-MIT
-
 ## Author:
 Krystian Plich
